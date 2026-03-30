@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "builddate": 20260113,
-      "md5": "34983c67d970ceaa6ab8815f0872ee3f",
+      "builddate": 20260401,
+      "md5": "dc778ea56e24f832146dd3cc5625626c",
       "patch": 20251101,
-      "size": 227784622,
+      "size": 100,
       "bl": "XXUFEYI4",
-      "url": "https://sourceforge.net/projects/lichrom/files/test/Antigravity.zip",
-      "version": "5.1.4"
+      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/test.zip",
+      "version": "5.1.6"
     }
   ]
 }
