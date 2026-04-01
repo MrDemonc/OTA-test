@@ -2,12 +2,12 @@
   "response": [
     {
       "builddate": 20260401,
-      "md5": "b9a6916b2f9ed56c8394eca49e188d65",
+      "md5": "dc778ea56e24f832146dd3cc5625626c",
       "patch": 20251101,
       "size": 4000,
       "bl": "XXUFEYI4",
-      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/archivo.zip/download",
-      "version": "5.1.7"
+      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/test.zip",
+      "version": "5.1.6"
     }
   ]
 }
